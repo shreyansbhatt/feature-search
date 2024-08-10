@@ -1,0 +1,15 @@
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\feature-search.business.concrete.csprojAssemblyReference.cache
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\feature-search.business.concrete.GeneratedMSBuildEditorConfig.editorconfig
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\feature-search.business.concrete.AssemblyInfoInputs.cache
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\feature-search.business.concrete.AssemblyInfo.cs
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\feature-search.business.concrete.csproj.CoreCompileInputs.cache
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\bin\Debug\net5.0\feature-search.business.concrete.deps.json
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\bin\Debug\net5.0\feature-search.business.concrete.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\bin\Debug\net5.0\ref\feature-search.business.concrete.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\bin\Debug\net5.0\feature-search.business.concrete.pdb
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\bin\Debug\net5.0\feature-search.business.core.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\bin\Debug\net5.0\feature-search.business.core.pdb
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\feature-search.business.concrete.csproj.CopyComplete
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\feature-search.business.concrete.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\ref\feature-search.business.concrete.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.concrete\obj\Debug\net5.0\feature-search.business.concrete.pdb

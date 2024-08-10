@@ -1,0 +1,15 @@
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\feature-search.repository.csprojAssemblyReference.cache
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\feature-search.repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\feature-search.repository.AssemblyInfoInputs.cache
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\feature-search.repository.AssemblyInfo.cs
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\feature-search.repository.csproj.CoreCompileInputs.cache
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\bin\Debug\net5.0\feature-search.repository.deps.json
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\bin\Debug\net5.0\feature-search.repository.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\bin\Debug\net5.0\ref\feature-search.repository.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\bin\Debug\net5.0\feature-search.repository.pdb
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\bin\Debug\net5.0\feature-search.business.core.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\bin\Debug\net5.0\feature-search.business.core.pdb
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\feature-search.repository.csproj.CopyComplete
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\feature-search.repository.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\ref\feature-search.repository.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.repository\obj\Debug\net5.0\feature-search.repository.pdb

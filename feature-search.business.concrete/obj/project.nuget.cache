@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ENqVMuOrxjq0hHXxwR8biR3gIOzZc/5eGqjkM7/ro5aXo/NXOIGlfVBx+A1JiRgOXYdiHzrNyOTIwBJRfkJQ1w==",
+  "success": true,
+  "projectFilePath": "D:\\4.LOGICSENSE_WORK\\FeatureSearch\\logicsense-feature-earch\\feature-search-API\\feature-search.business.concrete\\feature-search.business.concrete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shreyans Bhatt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shreyans Bhatt\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shreyans Bhatt\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

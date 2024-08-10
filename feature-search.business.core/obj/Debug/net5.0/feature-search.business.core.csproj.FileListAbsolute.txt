@@ -1,0 +1,12 @@
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\obj\Debug\net5.0\feature-search.business.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\obj\Debug\net5.0\feature-search.business.core.AssemblyInfoInputs.cache
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\obj\Debug\net5.0\feature-search.business.core.AssemblyInfo.cs
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\obj\Debug\net5.0\feature-search.business.core.csproj.CoreCompileInputs.cache
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\bin\Debug\net5.0\feature-search.business.core.deps.json
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\bin\Debug\net5.0\feature-search.business.core.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\bin\Debug\net5.0\ref\feature-search.business.core.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\bin\Debug\net5.0\feature-search.business.core.pdb
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\obj\Debug\net5.0\feature-search.business.core.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\obj\Debug\net5.0\ref\feature-search.business.core.dll
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\obj\Debug\net5.0\feature-search.business.core.pdb
+D:\4.LOGICSENSE_WORK\FeatureSearch\logicsense-feature-earch\feature-search-API\feature-search.business.core\obj\Debug\net5.0\feature-search.business.core.csprojAssemblyReference.cache
